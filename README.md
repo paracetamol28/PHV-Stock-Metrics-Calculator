@@ -95,6 +95,15 @@ This will fetch the financial data, calculate the metrics, and generate an Excel
 
 10. Open the Excel file to view the calculated metrics.
 
+## Screenshots
+
+Here is a screenshot of the formatted excel file as an output containing the required metrics for the given assets
+
+![Screenshot 2023-06-01 012752](https://github.com/paracetamol28/PHV-Stock-Metrics-Calculator/assets/102609888/60c5d938-d501-48ef-a834-61669b82e31d)
+
+
+
+
 ## Software design 
 
 - The modular design allows for flexibility and easy extensibility. Additional functionality or calculations can be added by modifying the respective components without affecting the rest of the codebase.
